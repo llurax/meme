@@ -1,0 +1,29 @@
+body{ background-color:black;}
+
+h1{
+    color:white;
+    font-family: 'Libre Baskerville', serif;
+    margin-left: 540px;
+    text-transform:uppercase ;
+    
+    
+}
+
+#false{
+    color:white;
+    margin-left: 710px;
+    
+}
+
+#second{
+    color:white;
+    margin-left:608px;
+
+}
+
+img{
+    width:900px;
+    border: 5px solid white;
+    margin: 25px 300px
+    
+}
